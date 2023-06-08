@@ -8,6 +8,10 @@ body {
      margin: auto;
 }
 
+body#search-prototype {
+	border-bottom:2em beige;
+}
+
 #api-data {
      border-left: 2em solid pink;
      padding: 1em;
@@ -25,3 +29,4 @@ details.solr-data {
 #answer-text:after {
   content: close-quote;
 }
+
