@@ -9,6 +9,6 @@ body {
 }
 
 #api-data {
-     background-color: #ccc;
-     padding: 2em;
+     border-left: 2em solid pink;
+     padding: 1em;
 }
