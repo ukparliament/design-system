@@ -1,5 +1,7 @@
 /* Team Robin Red Breast Design System */
 
+@import url("https://www.w3.org/StyleSheets/Core/Swiss") print;
+
 body {
 					font-family: system-ui;
 					max-width: 80ch;
