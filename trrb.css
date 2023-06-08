@@ -13,3 +13,7 @@ body {
      padding: 1em;
      background-color: lavenderblush;
 }
+
+details.solr-data {
+	padding-top:1em;
+}
