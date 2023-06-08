@@ -27,6 +27,8 @@ details.solr-data {
 }
 
 .answer-text {
-  background-color:yellow;
+  	border: thin dotted crimson;
+    padding:0 1em;
+    border-radius: 0.3em;
 }
 
