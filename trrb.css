@@ -1,4 +1,8 @@
 /* Team Robin Red Breast Design System */
+
+html {
+	scroll-behavior: smooth;
+	}
 body {
      font-family: system-ui;
      max-width: 80ch;
@@ -22,11 +26,11 @@ details.solr-data {
 	padding-top:1em;
 }
 
-#answer-text:before {
+.answer-text:before {
   content: open-quote;
 }
 
-#answer-text:after {
+.answer-text:after {
   content: close-quote;
 }
 
