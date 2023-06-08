@@ -1,7 +1,15 @@
 /* Team Robin Red Breast Design System */
 
+body {
+					font-family: system-ui;
+					max-width: 52ch;
+					padding:0 1.5ch;
+					line-height: 1.4;
+					font-size: 1.2rem; 
+					margin: auto;
+						}
+
 #api-data {
 	background-color: #ccc;
-	padding: 2em;
-	
+	padding: 2em;	
 }
