@@ -17,3 +17,11 @@ body {
 details.solr-data {
 	padding-top:1em;
 }
+
+#answer-text:before {
+  content: open-quote;
+}
+
+#answer-text:after {
+  content: close-quote;
+}
