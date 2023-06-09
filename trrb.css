@@ -26,7 +26,7 @@ details.solr-data {
 	padding-top:1em;
 }
 
-.answer-text {
+#question-text, #answer-text {
   	border: thin dotted crimson;
     padding:0 1em;
     border-radius: 0.3em;
